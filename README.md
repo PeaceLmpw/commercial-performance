@@ -26,7 +26,8 @@ This is an advanced Excel dashboard to analyze multi-year business performance a
 - Licensing and attribution:
   - Original work crafted in Excel; any external data sources credited as appropriate
 - Contact:
-  - Github username : PeaceLwmpw 
+  - Github username: PeaceLwmpw
+  - Github repository: https://github.com/PeaceLmpw/commercial-performance.git
   - Chariow store: https://wfzwxbem.mychariow.shop
   - Facebook : https://www.facebook.com/share/1A5rXdCxQx/
   - Instagram: https://www.instagram.com/peacelmpw?igsh=MWV0dTMzZXNjZ2oxcw==
