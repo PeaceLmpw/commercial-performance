@@ -1,2 +1,33 @@
 # commercial-performance
 This is an advanced Excel dashboard to analyze multi-year business performance across product categories, regions, and customer segments.
+
+- Project: Commercial Performance Study
+- Description: An Excel-based analytics solution (Power Query-enabled) that analyzes multi-year commercial performance across product categories, regions, and customer segments.
+- What’s included:
+  - Interactive Excel dashboard with dynamic filters for year, region, category, and customer segment
+  - Key metrics: total sales, total profit, margins
+  - Trend visualizations and a geolocated map for regional insights
+  - Summary interpretive section to support executive decision-making
+- Data sources and structure:
+  - Multi-year sales data (2014–2018 in the example)
+  - Categories: Furniture, Office Supplies, Technology
+  - Regions: Central, East, South, West
+  - Customer segments: Consumer, Corporate, Home Office
+- Methods:
+  - Power Query for data shaping and refresh
+  - Pivot-based calculations for KPIs and margins
+  - Chart objects for sales, profits, and regional distribution
+- Usage notes:
+  - Refresh data to update dashboards
+  - Use the interpretive summary to inform strategy and actions
+- Outputs:
+  - Dashboard workbook
+  - Summary report with insights and recommendations
+- Licensing and attribution:
+  - Original work crafted in Excel; any external data sources credited as appropriate
+- Contact:
+  - Github username : PeaceLwmpw 
+  - Chariow store: https://wfzwxbem.mychariow.shop
+  - Facebook : https://www.facebook.com/share/1A5rXdCxQx/
+  - Instagram: https://www.instagram.com/peacelmpw?igsh=MWV0dTMzZXNjZ2oxcw==
+  - LinkedIn : https://www.linkedin.com/in/peace-lwanzo-b862b51a6/ 
